@@ -2,7 +2,7 @@ Esta es la hisstoria de Nicolas Garcia
 
 Tambien es la historia del gran Nicolás
 
-	Nico-Student es un contribuyente a este proyecto open source
+	Nico-Student es el propietario de este proyecto open source
         Tiene 21 años y actualmente esta tomando un curso de platzi
         Le gusta y desea aprender lo máximo que pueda
 
